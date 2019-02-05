@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.ProdutosMarcas.Dominio", "TreinaWeb.ProdutosMarcas.Dominio\TreinaWeb.ProdutosMarcas.Dominio.csproj", "{84547E65-7881-4CBC-9670-A5085FB4F89E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.ProdutosMarcas.Persistencia.EF", "TreinaWeb.ProdutosMarcas.Persistencia.EF\TreinaWeb.ProdutosMarcas.Persistencia.EF.csproj", "{D95EC00E-0C7C-4057-B533-549FDC4828BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.Repositorio.Comum", "TreinaWeb.Repositorio.Comum\TreinaWeb.Repositorio.Comum.csproj", "{DC6C4E52-E8E8-495C-BE7E-D66DF14026FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.ProdutosMarcas.Repositorio.EF", "TreinaWeb.ProdutosMarcas.Repositorio.EF\TreinaWeb.ProdutosMarcas.Repositorio.EF.csproj", "{3B00C435-309B-4FF6-ABEA-7EBF61A9F3E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.ProdutosMarcas.Apresentacao", "TreinaWeb.ProdutosMarcas.Apresentacao\TreinaWeb.ProdutosMarcas.Apresentacao.csproj", "{9CB8EAE2-C931-49BF-A6BC-D390BF7165B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84547E65-7881-4CBC-9670-A5085FB4F89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84547E65-7881-4CBC-9670-A5085FB4F89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84547E65-7881-4CBC-9670-A5085FB4F89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84547E65-7881-4CBC-9670-A5085FB4F89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95EC00E-0C7C-4057-B533-549FDC4828BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95EC00E-0C7C-4057-B533-549FDC4828BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95EC00E-0C7C-4057-B533-549FDC4828BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95EC00E-0C7C-4057-B533-549FDC4828BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6C4E52-E8E8-495C-BE7E-D66DF14026FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6C4E52-E8E8-495C-BE7E-D66DF14026FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6C4E52-E8E8-495C-BE7E-D66DF14026FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6C4E52-E8E8-495C-BE7E-D66DF14026FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B00C435-309B-4FF6-ABEA-7EBF61A9F3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B00C435-309B-4FF6-ABEA-7EBF61A9F3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B00C435-309B-4FF6-ABEA-7EBF61A9F3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B00C435-309B-4FF6-ABEA-7EBF61A9F3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB8EAE2-C931-49BF-A6BC-D390BF7165B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB8EAE2-C931-49BF-A6BC-D390BF7165B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB8EAE2-C931-49BF-A6BC-D390BF7165B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB8EAE2-C931-49BF-A6BC-D390BF7165B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA2F2B8C-1016-43FF-B7EC-49CF199E15D4}
+	EndGlobalSection
+EndGlobal

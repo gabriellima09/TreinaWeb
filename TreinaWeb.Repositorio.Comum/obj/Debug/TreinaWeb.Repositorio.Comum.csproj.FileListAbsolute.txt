@@ -1,0 +1,5 @@
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\bin\Debug\TreinaWeb.Repositorio.Comum.dll
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\bin\Debug\TreinaWeb.Repositorio.Comum.pdb
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\obj\Debug\TreinaWeb.Repositorio.Comum.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\obj\Debug\TreinaWeb.Repositorio.Comum.dll
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.Repositorio.Comum\obj\Debug\TreinaWeb.Repositorio.Comum.pdb

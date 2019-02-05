@@ -1,0 +1,12 @@
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas.Dominio\TreinaWeb.ProdutosMarcas.Dominio\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.dll
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas.Dominio\TreinaWeb.ProdutosMarcas.Dominio\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.pdb
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas.Dominio\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.csprojAssemblyReference.cache
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas.Dominio\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas.Dominio\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.dll
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas.Dominio\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.pdb
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.dll
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\bin\Debug\TreinaWeb.ProdutosMarcas.Dominio.pdb
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.csprojAssemblyReference.cache
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.dll
+C:\Users\gabriel.gomes\source\repos\TreinaWeb.ProdutosMarcas\TreinaWeb.ProdutosMarcas.Dominio\obj\Debug\TreinaWeb.ProdutosMarcas.Dominio.pdb
